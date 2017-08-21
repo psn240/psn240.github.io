@@ -3,7 +3,7 @@ title: Sudhir Nallam
 name: Sudhir Nallam
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 
 #User specific content
 #Links that will appear in the navbar
