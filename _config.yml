@@ -3,10 +3,12 @@ title: Sudhir Nallam
 name: Sudhir Nallam
 
 # Build settings
-highlighter: pygments
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "tables", "with_toc_data"]
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
   
 #User specific content
 #Links that will appear in the navbar
