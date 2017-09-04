@@ -3,8 +3,13 @@ title: Sudhir Nallam
 name: Sudhir Nallam
 
 # Build settings
+highlighter: rouge
 markdown: kramdown
-
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+  
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
