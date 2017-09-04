@@ -1,5 +1,6 @@
 body {
-	background: url('../img/gray_jean.png');
+	background-color:#1E3D5A;
+	/*background: url('../img/gray_jean.png');*/
 	padding-top: 40px;
 	color: rgb(24, 24, 24);
 }
