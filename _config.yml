@@ -52,7 +52,7 @@ roles:
    end: July, 2009
    employer: FedEx Ground, Pittsburgh
    description: Contributed in increasing the project performance (4 million requests/day) by tuning the JDBC calls, monitoring the server using JProfiler, altering the service programs (AS/400 programs). Developed service layer programs and parsers which have optimized time complexity.
-- title: Software Engineer
+ - title: Software Engineer
    start: May, 2005
    end: July, 2006
    employer: Robert Bosch, India
