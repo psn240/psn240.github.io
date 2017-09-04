@@ -42,23 +42,39 @@ roles:
    end: Ongoing
    employer: IBM, T.J. Watson Research Center, NY
    description: Developed a predictive analytics tool to help the IBM M&A team to improve the procurement of new acquisitions. Worked on analyzing the public response on IBM sponsored events by doing sentimental analysis on twitter and blogs data. Designed and developed MAPro (Performance & Risk Optimizer), a web application with integrated cognos reports.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> I am a senior engineer working closely with the CTO, working across the full-stack, I am involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+ - title: Software Engineer
+   start: July, 2009
+   end: March, 2010
+   employer: Navy Federal Credit Union, Pittsburgh
+   description: Migrated lotus notes based Reversal application to web based J2EE application in websphere. Connected to mainframe programs (wrapped by Host Bridge) through web service clients using restful webservices.
+ - title: Software Engineer
+   start: January, 2008
+   end: July, 2009
+   employer: FedEx Ground, Pittsburgh
+   description: Contributed in increasing the project performance (4 million requests/day) by tuning the JDBC calls, monitoring the server using JProfiler, altering the service programs (AS/400 programs). Developed service layer programs and parsers which have optimized time complexity.
+- title: Software Engineer
+   start: May, 2005
+   end: July, 2006
+   employer: Robert Bosch, India
+   description: Implemented java based production configuration tool, to decrease the production downtime. Gained substantial knowledge about the concepts, design advantages, traps and pitfalls of successful object oriented design and programming.
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: MASTER OF SCIENCE
+   date: 2015–2018
+   subject: Data Science
+   grade: 3.5/4.0
+   school: New York University, New York
+ - level: MASTER OF SCIENCE
+   date: 2006–2008
+   subject: Mechanical & Aerospace Engineer
+   grade: 3.27/4.0
+   school: Illinois Institute of Technology, Chicago
+ - level: BACHELOR OF TECHNOLOGY
+   date: 2001–2005
+   subject: Mechanical Engineer
+   grade: 75.13/100
+   school: National Institute of Technology, Warangal, India  
 
 #This section is optional (as is the image link below)
 coursera:
