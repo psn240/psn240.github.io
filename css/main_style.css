@@ -191,13 +191,13 @@ table {
 	font-weight:900;
 }
 .txt_lightgrey {
-	background-color:blue;
+	background-color:white;
 	border-color: #ABABAB;
 	border-bottom-style: solid;
 	border-bottom-width: 0px;
 	border-right-style: solid;
 	border-right-width: 0px;
-	margin-bottom:5px;
+	margin-bottom:0px;
 }
 
 img {  
