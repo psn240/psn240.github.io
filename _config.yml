@@ -60,17 +60,17 @@ roles:
 
 #Education is required
 education:
- - level: MASTER OF SCIENCE
+ - level: Master of Science
    date: 2015–2018
    subject: Data Science
    grade: 3.5/4.0
    school: New York University, New York
- - level: MASTER OF SCIENCE
+ - level: Master of Science
    date: 2006–2008
    subject: Mechanical & Aerospace Engineer
    grade: 3.27/4.0
    school: Illinois Institute of Technology, Chicago
- - level: BACHELOR OF TECHNOLOGY
+ - level: Bachelor of Technology
    date: 2001–2005
    subject: Mechanical Engineer
    grade: 75.13/100
