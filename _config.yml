@@ -111,10 +111,12 @@ stackoverflow:
 
 #Mobile apps section is optional
 apps:
- - name: Chuck the Quiz
-   platform: Android
-   url: https://play.google.com/store/apps/details?id=com.tmm.android.chuck&feature=search_result#?t=W251bGwsMSwxLDEsImNvbS50bW0uYW5kcm9pZC5jaHVjayJd
-   description: A basic early Android app (open sourced)
+ - year: 2012
+   company: IBM T.J. Watson Research center
+   description: Outstanding Technical Achievement Award
+- year: 2014
+   company: Coursera
+   description: Machine Learning course by Andrew Ng
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
