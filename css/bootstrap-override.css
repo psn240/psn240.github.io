@@ -3,7 +3,8 @@
 	background-color: #530B05;
 }
 .navbar-inverse .nav>li>a {
-	color: #A5C5DF;
+	/*color: #A5C5DF;*/
+	color: white
 }
 .navbar-inverse .brand {
 	color: white;
