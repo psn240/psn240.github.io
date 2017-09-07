@@ -1,6 +1,7 @@
 # Site settings
 title: Sudhir Nallam
 name: Sudhir Nallam
+email: nallam.pavansudhir@gmail.com
 
 # Build settings
 highlighter: rouge
@@ -13,8 +14,6 @@ kramdown:
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: email
-   url: nallam.pavansudhir@gmail.com
  - title: GitHub
    url: https://github.com/sudhirnallam
  - title: LinkedIn
