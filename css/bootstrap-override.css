@@ -1,6 +1,7 @@
 /** NavBar override **/
 .nav>li>a:focus, .nav>li>a:hover,.navbar-inverse .nav li.dropdown.open>.dropdown-toggle,.navbar-inverse .nav li.dropdown.active>.dropdown-toggle,.navbar-inverse .nav li.dropdown.open.active>.dropdown-toggle{
 	background-color: #530B05;
+	color: white;
 }
 .navbar-inverse .nav>li>a {
 	color: white;
