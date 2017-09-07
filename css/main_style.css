@@ -25,13 +25,13 @@ table {
 
 .contact-button {
   @include border-radius(1px);
-  background-color: #fff;
+  background-color: #ABABAB;
   text-decoration: none;
   text-align: center;
   display: block;
   margin: 0.5rem auto;
   width: 220px;
-  font-size: 0.5rem;
+  font-weight: 300;
   @include sans_light;
   color: #333;
   line-height: 55px;
