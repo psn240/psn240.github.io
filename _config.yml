@@ -1,7 +1,7 @@
 # Site settings
 title: Sudhir Nallam
-name: Sudhir Nallam
-
+name: Sudhir Nallam 
+resume_contact_email: "nallam.pavansudhir@gmail.com"
 
 # Build settings
 highlighter: rouge
@@ -31,9 +31,6 @@ skills:
  - DevOps
  - RESTful Architecture
  - NoSQL databases
-
-#Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
 
 #Work experience is required
 roles:
@@ -76,18 +73,6 @@ education:
    grade: 75.13/100
    school: National Institute of Technology, Warangal, India  
 
-#This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -96,11 +81,6 @@ github:
  - sudhirNallam/BigData-Project
  - sudhirNallam/IRClass
  - sudhirNallam/SWWAE
-
-#Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/258813/rhinds
-   flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 #Mobile apps section is optional
 apps:
