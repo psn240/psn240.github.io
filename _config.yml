@@ -92,17 +92,10 @@ coursera:
 #List of interesting Github repo/projects to include - optional
 github:
  - sudhirNallam/ds_ga_1001
- - robhinds/akka-http-rest-api-sample
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
+ - sudhirNallam/predictingRefugeeAsylum
+ - sudhirNallam/BigData-Project
+ - sudhirNallam/IRClass
+ - sudhirNallam/SWWAE
 
 #Stackoverflow flair is optional
 stackoverflow:
