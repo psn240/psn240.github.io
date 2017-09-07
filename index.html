@@ -4,12 +4,6 @@ layout: default
 
 <div class="row">
 	<div class="col-md-11 rightBorder">
-		{% if site.resume_looking_for_work == 'yes' %}
-        		<a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email" text-align="left">Contact me</a>
-        	{% elsif site.resume_looking_for_work == 'no' %}
-        		<a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
-        	{% else %}
-        	{% endif %}
 		{% include section_intro.html %}
 		{% include section_skills.html %}
 		{% include section_workexperience.html %}
