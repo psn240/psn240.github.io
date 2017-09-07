@@ -114,7 +114,7 @@ apps:
  - year: 2012
    company: IBM T.J. Watson Research center
    description: Outstanding Technical Achievement Award
-- year: 2014
+-  year: 2014
    company: Coursera
    description: Machine Learning course by Andrew Ng
 
