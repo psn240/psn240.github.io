@@ -24,9 +24,11 @@ table {
 }
 
 .contact-button {
+  @include border-radius(3px); 	
   text-decoration: none;
   margin: 0.5rem auto;
   font-weight: 300;
+  font-color: #337ab7;	
   @include sans_light;
   color: #333;
   line-height: 55px;
