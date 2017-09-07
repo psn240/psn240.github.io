@@ -27,10 +27,8 @@ table {
   @include border-radius(1px);
   background-color: #ABABAB;
   text-decoration: none;
-  text-align: center;
   display: block;
   margin: 0.5rem auto;
-  width: 220px;
   font-weight: 300;
   @include sans_light;
   color: #333;
