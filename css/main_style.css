@@ -24,10 +24,10 @@ table {
 }
 
 .contact-button {
-  @include border-radius(3px);
-  background-color: #efefef;
+  @include border-radius(1px);
+  background-color: #005985;
   text-decoration: none;
-  text-align: center;
+  text-align: left;
   display: block;
   margin: 1.5rem auto;
   width: 220px;
