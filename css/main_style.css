@@ -24,10 +24,7 @@ table {
 }
 
 .contact-button {
-  @include border-radius(1px);
-  background-color: #ABABAB;
   text-decoration: none;
-  display: block;
   margin: 0.5rem auto;
   font-weight: 300;
   @include sans_light;
