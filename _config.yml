@@ -76,11 +76,11 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - sudhirNallam/ds_ga_1001
  - sudhirNallam/predictingRefugeeAsylum
  - sudhirNallam/BigData-Project
  - sudhirNallam/IRClass
  - sudhirNallam/SWWAE
+ - sudhirNallam/ds_ga_1001
 
 #Mobile apps section is optional
 apps:
