@@ -41,7 +41,7 @@ roles:
    description: Working in Roku Voice NLU team. Exploring the data corpus using statistical and ML models to create actionable insights. Evaluating the models by defining KPI’s and conducting AB tests.
  - title: Data Scientist/Software Engineer
    start: March, 2010
-   end: Ongoing
+   end: Feb, 2019
    employer: IBM, T.J. Watson Research Center, NY
    description: Developed a predictive analytics tool to help the IBM M&A team to improve the procurement of new acquisitions. Worked on analyzing the public response on IBM sponsored events by doing sentimental analysis on twitter and blogs data. Designed and developed MAPro (Performance & Risk Optimizer), a web application with integrated cognos reports.
  - title: Software Engineer
