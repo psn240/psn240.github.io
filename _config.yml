@@ -1,7 +1,7 @@
 # Site settings
 title: Pavan Sudhir Nallam
 name: Pavan Sudhir Nallam 
-resume_contact_email: "nallam.pavansudhir@gmail.com"
+resume_contact_email: "sudhir.nitw@gmail.com"
 
 # Build settings
 highlighter: rouge
@@ -26,7 +26,7 @@ skills:
  - Python
  - Java
  - Pytorch
- - Bluemix Services
+ - AWS
  - Elasticsearch
  - DevOps
  - RESTful Architecture
@@ -34,11 +34,16 @@ skills:
 
 #Work experience is required
 roles:
+ - title: Data Scientist
+   start: March, 2019
+   end: Ongoing
+   employer: Roku, Las Gatos, CA
+   description: Working in Roku Voice NLU team. Exploring the data corpus using statistical and ML models to create actionable insights. Evaluating the models by defining KPI’s and conducting AB tests.
  - title: Data Scientist/Software Engineer
    start: March, 2010
    end: Ongoing
    employer: IBM, T.J. Watson Research Center, NY
-   description: Developed a predictive analytics tool to help the IBM M&A team to improve the procurement of new acquisitions. Worked on analyzing the public response on IBM sponsored events by doing sentimental analysis on twitter and blogs data. Designed and developed MAPro (Performance & Risk Optimizer), a web application with integrated cognos reports. Code-https://github.ibm.com/MAPRO/mapro
+   description: Developed a predictive analytics tool to help the IBM M&A team to improve the procurement of new acquisitions. Worked on analyzing the public response on IBM sponsored events by doing sentimental analysis on twitter and blogs data. Designed and developed MAPro (Performance & Risk Optimizer), a web application with integrated cognos reports.
  - title: Software Engineer
    start: July, 2009
    end: March, 2010
@@ -95,11 +100,11 @@ apps:
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: 
  - skill: Languages
-   options: Java, Python, R, Lua, C++, PL/SQL, Octave
+   options: Python, R, Lua, C++, PL/SQL, Octave, Java
  - skill: Python Packages
    options: pandas, scikit-Learn, numpy, scipy, matplotlib, pymongo, Numba, Cython
  - skill: Tools & Technologies
-   options: Torch, Tensorflow, Hadoop(ecosystem), Spark, SPSS, Elasticsearch, Watson Bluemix, Spring, Struts, Hibernate
+   options: Torch, Tensorflow, Hadoop(ecosystem), Spark, SPSS, Elasticsearch, AWS, Spring, Struts, Hibernate
  - skill: Databases
    options: Mongo DB, DB2, Cognos TM1
  - skill: Web Technologies
