@@ -39,11 +39,16 @@ roles:
    end: Ongoing
    employer: Roku, Las Gatos, CA
    description: Working in Roku Voice NLU team. Exploring the data corpus using statistical and ML models to create actionable insights. Evaluating the models by defining KPI’s and conducting AB tests.
- - title: Data Scientist/Software Engineer
-   start: March, 2010
+ - title: Data Scientist
+   start: Sept, 2014
    end: Feb, 2019
    employer: IBM, T.J. Watson Research Center, NY
    description: Developed a predictive analytics tool to help the IBM M&A team to improve the procurement of new acquisitions. Worked on analyzing the public response on IBM sponsored events by doing sentimental analysis on twitter and blogs data. Designed and developed MAPro (Performance & Risk Optimizer), a web application with integrated cognos reports.
+ - title: Software Engineer
+   start: March, 2010
+   end: Sept, 2014
+   employer: IBM, T.J. Watson Research Center, NY
+   description: Work closely with client teams to identify requirements, estimate projects, and implement prototypes and solutions in an agile, iterative fashion. Analytics (Data Mining) model developed in SPSS is integrated into the system through Python and Clementine Scripting. Designed and developed MAPro (Performance Risk Optimizer), a web application with integrated cognos reports. Developed low latency application through multi-threading and in-memory cache.
  - title: Software Engineer
    start: July, 2009
    end: March, 2010
@@ -81,12 +86,12 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - sudhirNallam/Unsupervised-training-using-SWWAE
+ - sudhirNallam/Analysis-NYC-Taxi-data
+ - sudhirNallam/Generative-Models-Limitations
  - sudhirNallam/predictingRefugeeAsylum
- - sudhirNallam/BigData-Project
- - sudhirNallam/IRClass
- - sudhirNallam/SWWAE
  - sudhirNallam/seq2seqModel
- - NYU-CDS-Capstone-Project/Voyagers
+ - sudhirNallam/Energy-Disaggregation-Product-PoC-kaggle-competition
  
 #Mobile apps section is optional
 apps:
@@ -104,7 +109,7 @@ additionalinfo:
  - skill: Python Packages
    options: pandas, scikit-Learn, numpy, scipy, matplotlib, pymongo, Numba, Cython
  - skill: Tools & Technologies
-   options: Torch, Tensorflow, Hadoop(ecosystem), Spark, SPSS, Elasticsearch, AWS, Spring, Struts, Hibernate
+   options: Torch, Tensorflow, Hadoop(ecosystem), Spark, SPSS, Elasticsearch, AWS, Airflow, Spring, Struts, Hibernate
  - skill: Databases
    options: Mongo DB, DB2, Cognos TM1
  - skill: Web Technologies
