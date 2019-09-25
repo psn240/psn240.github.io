@@ -28,6 +28,7 @@ skills:
  - Pytorch
  - AWS
  - Elasticsearch
+ - Airflow
  - DevOps
  - RESTful Architecture
  - NoSQL databases
@@ -37,7 +38,7 @@ roles:
  - title: Data Scientist
    start: March, 2019
    end: Ongoing
-   employer: Roku, Las Gatos, CA
+   employer: Roku, Los Gatos, CA
    description: Working in Roku Voice NLU team. Exploring the data corpus using statistical and ML models to create actionable insights. Evaluating the models by defining KPI’s and conducting AB tests.
  - title: Data Scientist
    start: Sept, 2014
