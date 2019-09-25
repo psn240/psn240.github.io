@@ -44,7 +44,7 @@ roles:
    start: Sept, 2014
    end: Feb, 2019
    employer: IBM, T.J. Watson Research Center, NY
-   description: Developed a predictive analytics tool to help the IBM M&A team to improve the procurement of new acquisitions. Worked on analyzing the public response on IBM sponsored events by doing sentimental analysis on twitter and blogs data. Designed and developed MAPro (Performance & Risk Optimizer), a web application with integrated cognos reports.
+   description: Developed a predictive analytics tool to help IBM MA team in procuring new acquisitions. Contributed in feature extraction, optimizing hyperparameters and fitting ML models for acquisitions data. Deployed analytic models in production setup. Worked on analyzing the public response on IBM sponsored events by doing sentimental analysis on twitter and blogs data.
  - title: Software Engineer
    start: March, 2010
    end: Sept, 2014
