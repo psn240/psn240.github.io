@@ -39,12 +39,12 @@ roles:
    start: March, 2019
    end: Ongoing
    employer: Roku, Los Gatos, CA
-   description: Working in Roku Voice NLU team. Exploring the data corpus using statistical and ML models to create actionable insights. Evaluating the models by defining KPI’s and conducting AB tests.
+   description: Working in Roku Voice NLU team. Exploring the data corpus using statistical and ML models to create actionable insights. Evaluating the models by defining KPI’s and conducting AB tests. Developed visulizations using Plotly and D3.
  - title: Data Scientist
    start: Sept, 2014
    end: Feb, 2019
    employer: IBM, T.J. Watson Research Center, NY
-   description: Developed a predictive analytics tool to help IBM MA team in procuring new acquisitions. Contributed in feature extraction, optimizing hyperparameters and fitting ML models for acquisitions data. Deployed analytic models in production setup. Worked on analyzing the public response on IBM sponsored events by doing sentimental analysis on twitter and blogs data.
+   description: Developed a predictive analytics tool to help IBM MA team in procuring new acquisitions. Contributed in feature extraction, optimizing hyperparameters and training ML models for acquisitions data. Deployed analytic models in production setup. Worked on analyzing the public response on IBM sponsored events by doing sentimental analysis on twitter and blogs data. Build News Articles Recommedation system for IBM MA team. 
  - title: Software Engineer
    start: March, 2010
    end: Sept, 2014
