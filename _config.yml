@@ -44,12 +44,12 @@ roles:
    start: Sept, 2014
    end: Feb, 2019
    employer: IBM, T.J. Watson Research Center, NY
-   description: Developed a predictive analytics tool to help IBM MA team in procuring new acquisitions. Contributed in feature extraction, data wrangling, optimizing hyperparameters, training ML models for acquisitions data and defining testing metrics. Deployed analytic models in production setup. Worked on analyzing the public response on IBM sponsored events by doing sentimental analysis on twitter and blogs data. Build News Articles Recommedation system for IBM MA team. 
+   description: Developed a predictive analytics tool to help IBM MA team in procuring new acquisitions. Contributed in feature extraction, data wrangling, optimizing hyperparameters, training ML models for acquisitions data and defining testing metrics. Deployed analytic models in production setup. Worked on analyzing the public response on IBM sponsored events by doing sentimental analysis on twitter and blogs data. Build News Articles Recommendation system for IBM MA team. 
  - title: Software Engineer
    start: March, 2010
    end: Sept, 2014
    employer: IBM, T.J. Watson Research Center, NY
-   description: Work closely with client teams to identify requirements, estimate projects, and implement prototypes and solutions in an agile, iterative fashion. Analytics (Data Mining) model developed in SPSS is integrated into the system through Python and Clementine Scripting. Designed and developed MAPro (Performance Risk Optimizer), a web application with integrated cognos reports. Developed low latency application through multi-threading and in-memory cache.
+   description: Work closely with client teams to identify requirements, estimate project requirements, and develop minimum viable product in agile, iterative fashion. Analytics (Data Mining) model developed in SPSS is integrated into the system through Python and Clementine Scripting. Designed and developed MAPro (Performance & Risk Optimizer), a web application with integrated with cognos reports. Developed low latency application and high availability.
  - title: Software Engineer
    start: July, 2009
    end: March, 2010
