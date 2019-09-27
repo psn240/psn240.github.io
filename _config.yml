@@ -44,7 +44,7 @@ roles:
    start: Sept, 2014
    end: Feb, 2019
    employer: IBM, T.J. Watson Research Center, NY
-   description: Developed a predictive analytics tool to help IBM MA team in procuring new acquisitions. Contributed in feature extraction, optimizing hyperparameters and training ML models for acquisitions data. Deployed analytic models in production setup. Worked on analyzing the public response on IBM sponsored events by doing sentimental analysis on twitter and blogs data. Build News Articles Recommedation system for IBM MA team. 
+   description: Developed a predictive analytics tool to help IBM MA team in procuring new acquisitions. Contributed in feature extraction, data wrangling, optimizing hyperparameters, training ML models for acquisitions data and defining testing metrics. Deployed analytic models in production setup. Worked on analyzing the public response on IBM sponsored events by doing sentimental analysis on twitter and blogs data. Build News Articles Recommedation system for IBM MA team. 
  - title: Software Engineer
    start: March, 2010
    end: Sept, 2014
